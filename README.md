@@ -2,6 +2,9 @@
 
 This is a demo project to show how to use Next.js with WordPress as a headless CMS.
 
+It uses GraphQL to fetch data from WordPress and render it using Next.js.
+
+
 ## Prerequisites
 
 - Docker
@@ -24,6 +27,7 @@ docker-compose up
 
 Open [http://localhost:8000](http://localhost:8000) with your browser to see the result, and [http://localhost:8000/wp-admin](http://localhost:8000/wp-admin) to access the WordPress setup.
 
+Note: in the `.wordpress` folder you will find a volume that contains all the `wp-content/plugins/` folder, which contains the WP plugins. 
 ### 3. Start the Next.js server
 
 ```bash
