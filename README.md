@@ -7,8 +7,8 @@ It uses GraphQL to fetch data from WordPress and render it using Next.js.
 
 ## Prerequisites
 
-- Docker
-- Node.js 20.x or higher
+- Docker ( Install [here](https://www.docker.com/products/docker-desktop) )
+- Node.js 20.x or higher ( Install [here](https://nodejs.org/en/download/) )
 
 ## Getting Started
 
