@@ -28,6 +28,9 @@ docker-compose up
 Open [http://localhost:8000](http://localhost:8000) with your browser to see the result, and [http://localhost:8000/wp-admin](http://localhost:8000/wp-admin) to access the WordPress setup.
 
 Note: in the `.wordpress` folder you will find a volume that contains all the `wp-content/plugins/` folder, which contains the WP plugins. 
+
+`wp-graphql` and `wpgraphql-blocks` **_are mandatory plugins_**.
+
 ### 3. Start the Next.js server
 
 ```bash
