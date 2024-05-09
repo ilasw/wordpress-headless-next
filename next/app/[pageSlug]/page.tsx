@@ -1,5 +1,5 @@
 import {getClient} from "@/src/queries/client";
-import {GET_ARTICLE_QUERY, GET_PAGE_QUERY, PageQueryResult} from "@/src/queries/queries";
+import {GET_PAGE_QUERY, PageQueryResult} from "@/src/queries/queries";
 import {Blocks} from "@/src/components/blocks/Blocks";
 
 type PageProps = {
