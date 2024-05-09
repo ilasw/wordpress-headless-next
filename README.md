@@ -40,3 +40,12 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+-----
+
+### Liked this project?
+
+- Star the repo and share it with others
+- Contact me for any questions or suggestions
+- Hire me for your next project: [lucapagliaro.it](https://lucapagliaro.it)
